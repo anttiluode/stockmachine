@@ -1,6 +1,6 @@
-# 📈 Stock Machine: Buy & Hold! 📈
+# 📈 Stock Machine! 📈
 
-**Stock Machine: Buy & Hold!** is a powerful Streamlit-based web application that allows users to simulate buying and selling stocks using a virtual currency system called "Beans." Enhance your investment portfolio with smart purchases, track your holdings, analyze stock performance, and compete on the leaderboard—all within an interactive and user-friendly interface.
+**Stock Machine!** is a powerful Streamlit-based web application that allows users to simulate buying and selling stocks using a virtual currency system called "Beans." Enhance your investment portfolio with smart purchases, track your holdings, analyze stock performance, and compete on the leaderboard—all within an interactive and user-friendly interface.
 
 ## 🚀 Features
 
@@ -46,7 +46,7 @@
 
 ## 📦 Installation
 
-Follow these steps to set up and run **Stock Machine: Buy & Hold!** on your local machine.
+Follow these steps to set up and run **Stock Machine!** on your local machine.
 
 ### 1. Clone the Repository
 
@@ -102,6 +102,7 @@ Uncomment and update the set_custom_frame line in the main function.
 python
 Copy code
 # set_custom_frame("assets/slot_frame.png")
+As of now this function has been commented (#) out. 
 7. Run the Application
 Start the Streamlit application:
 
